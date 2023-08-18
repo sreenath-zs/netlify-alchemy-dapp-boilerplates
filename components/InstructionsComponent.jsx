@@ -52,7 +52,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://st3.depositphotos.com/5040187/19012/v/450/depositphotos_190126098-stock-illustration-logo-swoosh-ellipse-blue-letter.jpg"
+						src="https://media.istockphoto.com/id/1325438825/vector/premium-letter-sr-logo-design-rs-letter-logo-design-with-modern-trendy.jpg?s=612x612&w=0&k=20&c=1rgBoofcl29vFKoU0jZsakUKDjPFA3bxlIjxyfoNv2E="
 						alt="Alchemy Supercharged"
 					/>
 				</a>
