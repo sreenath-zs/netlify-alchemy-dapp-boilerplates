@@ -52,7 +52,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://media.istockphoto.com/id/1328004013/vector/sr-letter-linked-logo-for-business-and-company-identity-initial-letter-sr-logo-vector.webp?s=1024x1024&w=is&k=20&c=9e6PM4rGj_MRJOXGvpbB66VDinmSb92GT5uZPYzgwlg="
+						src="https://media.istockphoto.com/id/1325438825/vector/premium-letter-sr-logo-design-rs-letter-logo-design-with-modern-trendy.jpg?s=612x612&w=0&k=20&c=1rgBoofcl29vFKoU0jZsakUKDjPFA3bxlIjxyfoNv2E="
 						alt="Alchemy Supercharged"
 					/>
 				</a>
