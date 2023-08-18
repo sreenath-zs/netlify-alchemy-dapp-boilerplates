@@ -6,11 +6,11 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					Sreenath Rangana<span>-DevOps-Engineer</span>
+					Sreenath Rangana<span>-DevOps_Engineer</span>
 				</h1>
 				<p>
-					Website is under working.....{" "}
-					<span>DevOps Life</span>
+					<h3>Website is under working.....</h3>{" "}
+					<span><b>DevOps Life</b></span>
 				</p>
 			</header>
 
@@ -21,7 +21,7 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>ZelarSoft-Company</p>
+						<p>My Office--ZelarSoft Pvt Ltd</p>
 					</div>
 				</a>
 				<a
@@ -35,7 +35,7 @@ export default function InstructionsComponent() {
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://blog.zelarsoft.com/"}
+					href={"https://orangematter.solarwinds.com/wp-content/uploads/2022/03/DevOps-lifecycle-capabilities-1024x621.png"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,7 +43,7 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Zelar_Blogs</p>
+						<p>DevOps LifeCycle</p>
 					</div>
 				</a>
 			</div>
