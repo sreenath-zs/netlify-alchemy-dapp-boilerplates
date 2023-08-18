@@ -26,16 +26,16 @@ export default function InstructionsComponent() {
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://medium.com/@sreenath_rangana96"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>My Medium_Blogs</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://blog.zelarsoft.com/"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,23 +43,23 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>Visit Zelar_Blogs</p>
 					</div>
 				</a>
 			</div>
 			<div className={styles.footer}>
-				<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
+				<a href="http://sreenathrk.online/" target={"_blank"}>
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
+						src="https://st3.depositphotos.com/5040187/19012/v/450/depositphotos_190126098-stock-illustration-logo-swoosh-ellipse-blue-letter.jpg"
 						alt="Alchemy Supercharged"
 					/>
 				</a>
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://github.com/sreenath-zs?tab=repositories"
 							target={"_blank"}
 						>
 							Leave a star on Github
@@ -67,10 +67,10 @@ export default function InstructionsComponent() {
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://www.linkedin.com/in/sreenath-rangana-1560a120b/"
 							target={"_blank"}
 						>
-							Follow us on Twitter
+							Follow on LinkedIn
 						</a>
 					</div>
 				</div>
