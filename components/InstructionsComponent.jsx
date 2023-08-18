@@ -9,19 +9,19 @@ export default function InstructionsComponent() {
 					Sreenath Rangana<span>-DevOps-Engineer</span>
 				</h1>
 				<p>
-					Website is working under working.....{" "}
-					<span>/pages/index.js</span>
+					Website is under working.....{" "}
+					<span>DevOps Life</span>
 				</p>
 			</header>
 
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://zelarsoft.com/"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>ZelarSoft-Company</p>
 					</div>
 				</a>
 				<a
